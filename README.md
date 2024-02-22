@@ -1,6 +1,6 @@
-# Contact Book Management System
+# Contact Book 
 
-This is a basic Contact Book Management System built using Flask for the backend, SQLite as the database, and React for the frontend.
+This is a basic Contact Book  built using Flask for the backend, SQLite as the database, and React for the frontend.
 
 ## Features
 
