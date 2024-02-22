@@ -4,11 +4,11 @@ This is a simple Contact Book Management System built using Flask for the backen
 
 ## Features
 
-- **User Authentication:** Users can sign up, log in, and log out securely.
-- **Create Contacts:** Users can add new contacts with details like name, email, phone number, etc.
-- **View Contacts:** Users can view their list of contacts.
-- **Update Contacts:** Users can edit the details of existing contacts.
-- **Delete Contacts:** Users can delete contacts they no longer need.
+- [ ] **User Authentication:** Users can sign up, log in, and log out securely. 
+- [x] **Create Contacts:** Users can add new contacts with details like name, email, phone number, etc.
+- [x] **View Contacts:** Users can view their list of contacts.
+- [ ] **Update Contacts:** Users can edit the details of existing contacts.
+- [ ] **Delete Contacts:** Users can delete contacts they no longer need.
 
 ## Technologies Used
 
